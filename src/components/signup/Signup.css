@@ -1,0 +1,23 @@
+#text-partial {
+  color: gold;
+}
+
+#signup-left {
+  background-color: green;
+  width: 50%;
+  /* padding: 4rem; */
+  color: white;
+  /* background-size: cover; */
+}
+
+li {
+  list-style: none;
+}
+
+.inside-col {
+  margin: 10px;
+}
+
+.form-login {
+  margin-top: 100px;
+}

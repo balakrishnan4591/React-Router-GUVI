@@ -1,0 +1,51 @@
+.card-top-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.card {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.card:hover {
+  box-shadow: 1px 1px 5px rgb(157, 156, 156);
+}
+
+.card-title {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 12px;
+  opacity: 0.8;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 15vh;
+  object-fit: cover;
+}
+
+#nav {
+  background-color: #f3f3f6;
+  font-size: 15px;
+}
+
+option {
+  margin: 3px;
+}
+
+option:hover {
+  background-color: rgb(204, 230, 204);
+}
+
+/* option {
+  background-color: green;
+} */
+
+/* select
+option:checked {
+  background: green;
+} */
