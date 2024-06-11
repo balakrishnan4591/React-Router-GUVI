@@ -29,13 +29,14 @@ const Navbar = () => {
                 />
               </li>
             </ul>
-
-            <button
-              className="btn btn-success"
-              onClick={() => gotToNewPage("/register")}
-            >
-              Sign Up
-            </button>
+            <Link to="./register">
+              <button
+                className="btn btn-success"
+                // onClick={() => gotToNewPage("/register")}
+              >
+                Sign Up
+              </button>
+            </Link>
           </div>
         </div>
       </nav>
